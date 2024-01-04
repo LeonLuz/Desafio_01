@@ -1,4 +1,6 @@
-let nomeHeroi = "Hércules"
+// Desafio Classificador de Nível de Herói
+
+let nomeDoHeroi = "Hércules"
 let xp = 8999
 let nivel
 
@@ -27,4 +29,4 @@ else{
     nivel = "Radiante"
 }
 
-console.log("O Herói de nome " + nomeHeroi + " está no nível de " + nivel)
+console.log("O Herói de nome " + nomeDoHeroi + " está no nível de " + nivel)
